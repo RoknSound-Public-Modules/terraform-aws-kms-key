@@ -1,2 +1,2 @@
 # terraform-aws-kms-key
-Terraform Workspace
+Terraform Module
